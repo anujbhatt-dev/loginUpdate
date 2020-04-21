@@ -229,3 +229,7 @@ a:hover {
     font-size: 1500px;
   }
 }
+
+.warning{
+  color:red;
+}
